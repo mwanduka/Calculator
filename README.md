@@ -1,4 +1,4 @@
 # Calculator
 This is an application that lets one do mathematical calculations.
-##Authors
+## Authors
 Joy Vivika and Mwanduka Stephen.
